@@ -1,0 +1,3 @@
+[submodule "PythonCyc"]
+	path = PythonCyc
+	url = https://github.com/latendre/PythonCyc.git
