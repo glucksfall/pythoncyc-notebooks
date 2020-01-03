@@ -1,3 +1,6 @@
 [submodule "PythonCyc"]
 	path = PythonCyc
 	url = https://github.com/latendre/PythonCyc.git
+[submodule "PythonCyc_v2019"]
+	path = PythonCyc_v2019
+	url = https://github.com/networkbiolab/PythonCyc.git
